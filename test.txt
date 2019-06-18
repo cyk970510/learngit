@@ -8,3 +8,6 @@ add->modify
 
 
 add dev line test
+
+add feature line test
+Creating a new branch is quick & simple.
