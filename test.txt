@@ -9,9 +9,3 @@ add->modify
 
 add dev line test
 
-<<<<<<< HEAD
-add feature line test
-Creating a new branch is quick & simple.
-=======
-add feature line test
->>>>>>> feature1
